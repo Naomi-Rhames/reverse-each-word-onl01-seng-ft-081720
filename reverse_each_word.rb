@@ -1,6 +1,6 @@
 require "pry"
 def reverse_each_word(sentence)
   sentence.split.each do | char|
-    char.reverse <<
+    char.reverse 
   end 
 end
