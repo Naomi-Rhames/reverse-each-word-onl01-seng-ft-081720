@@ -4,5 +4,4 @@ def reverse_each_word(sentence)
     char.reverse 
   end 
   array.join(" ")
-  binding.pry
 end
